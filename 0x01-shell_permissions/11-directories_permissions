@@ -1,0 +1,4 @@
+#!/bin/bash
+chmod 777 -R *
+#find . -type d -exec chmod u+x,g+x,o+x {} \;
+
